@@ -1,4 +1,4 @@
-Features: test
+Features:
 ........
 1. address_hash: Unique ID of the address
 2. price: Bitcoin amount for the address

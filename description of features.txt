@@ -10,7 +10,7 @@ Features:
 
 
 Description of Features:
-.......................
+.....................
 1. address_hash: This feature is not used when train and test a model, as it cannot make any difference between good and bad addresses. 
 2. price: If it happens that price ranges are different for bad addresses and good addresses, then price will help the model a lot to classify the bad and good addreses.
 3. no_neighbor: Number of other output addresses for a transaction of an address might be helpful in classifying good and bad addresses if number of output address of attacked transactions differ significantly from that of non-attacked transactions.
